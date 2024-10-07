@@ -1,7 +1,7 @@
 '''
 Name: Lauren Kamali
 Date: 10/04/2024
-Description: 
+Description: This is an interactieve Mad Libs game where users put in inputs that are later added into a story.
 '''
 
 print("Welcome to this Mads Libs Game!".center(60,"-"))
